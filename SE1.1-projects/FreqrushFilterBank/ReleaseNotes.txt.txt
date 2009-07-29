@@ -1,0 +1,12 @@
+FFB_mono_v0.11		date: 21 november 2008
+
+Rendered with SE-1.1_betaversion1.119
+
+AM has a new formula
+
+ADSR module is now module adsr2 (with trigger pin)
+
+todo: fix trigger ADSR
+
+
+
