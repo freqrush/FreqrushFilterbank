@@ -1,5 +1,0 @@
-; medium vertical slider
-type animated
-orientation vert
-frame_size 20, 30
-mouse_response stepped

@@ -1,4 +1,0 @@
-; medium knob
-type animated
-frame_size 56,56
-mouse_response rotary

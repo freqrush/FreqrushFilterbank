@@ -1,3 +1,0 @@
-; background graphic
-// does the image repeat (true) or not (false)
-tiled true

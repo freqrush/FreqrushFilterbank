@@ -1,4 +1,0 @@
-; small knob
-type animated
-frame_size 40,40
-mouse_response rotary
